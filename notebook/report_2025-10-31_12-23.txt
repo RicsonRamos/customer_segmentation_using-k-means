@@ -1,0 +1,9 @@
+
+Relatório de Desempenho - Supermarket Sales
+--------------------------------------------
+
+Modelo escolhido: RandomForest
+R² no teste: 0.9984130982791423
+MSE: 103.2422491172246
+
+Número ótimo de clusters: 2
